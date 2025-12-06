@@ -43,7 +43,7 @@ Clear the entire board without triggering a mine to win—simple, satisfying, an
 
 ## **📜 License**
 
-This project is open-source under the **Apache 2.0 License** (or whichever you choose).
+This project is open-source under the **Apache 2.0 License**.
 Feel free to play and explore the code—just don’t claim the project as your own.
 
 ---
