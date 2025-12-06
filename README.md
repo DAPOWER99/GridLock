@@ -36,7 +36,7 @@ cd MyGridLockGame
 python main.py
 
 ```
-**for naming the folder feel free to change the MyGridLockGame part or use the previous script**
+for naming the folder feel free to change the MyGridLockGame part or use the previous script
 ---
 
 ## **🎮 Gameplay**
