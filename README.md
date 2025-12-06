@@ -26,10 +26,17 @@ Clone the repository and run Gridlock instantly:
 
 ```bash
 git clone https://github.com/DAPOWER99/GridLock
-cd gridlock
+cd GridLock
 python main.py
 ```
+Or
+```bash
+git clone https://github.com/DAPOWER99/GridLock MyGridLockGame
+cd MyGridLockGame
+python main.py
 
+```
+**for naming the folder feel free to change the MyGridLockGame part or use the previous script**
 ---
 
 ## **🎮 Gameplay**
